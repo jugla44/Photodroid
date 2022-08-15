@@ -1,6 +1,6 @@
 {
-	"name": "miniPaint",
-	"short_name": "miniPaint",
+	"name": "Photodroid",
+	"short_name": "Photodroid",
 	"start_url": "/",
 	"display": "standalone",
 	"orientation": "landscape",
